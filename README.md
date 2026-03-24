@@ -1,2 +1,2 @@
-# ruit
+# Tuit
 Seamless school finances
